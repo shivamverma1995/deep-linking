@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.movies_db",
+      "package_name": "com.h_s.movies",
       "sha256_cert_fingerprints": [
-        "3F:07:51:5D:B3:24:9D:B9:8D:56:44:D8:3C:ED:4E:37:6C:A6:DD:FC:8D:E5:BB:45:F8:2F:39:0F:C6:AD"
+        "3F:07:51:5D:B3:24:9D:B9:8D:56:44:D8:3C:ED:4E:37:6C:A6:DD:FC:8D:E5:BB:45:F8:2F:39:0F:C6:AD",
+        "4D:50:4A:94:0A:5B:2A:05:B8:BD:4F:FF:70:8B:ED:5E:8E:4F:EE:44:DC:6F:B4:99:8A:BE:9F:A5:0A:9F:1A:1E"
       ]
     }
   }
